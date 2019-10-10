@@ -1,0 +1,9 @@
+{
+  "name": "jQuery.ButtonLoadingIndicator",
+  "version": "1.0.0",
+  "description": "A small jQuery Plugin to indicate a loading state of a button",
+  "main": "dist/jquery.buttonloadingindicator.js",
+  "repository": "git@github.com:Fluxter/jQuery.ButtonLoadingIndicator.git",
+  "author": "Marcel Kallen <mk@fluxter.net>",
+  "license": "MIT"
+}
