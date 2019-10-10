@@ -8,7 +8,7 @@ A simple script that changes the button icon to the fontawesome Spinner and reve
 1. Import the script via
 
    ```html
-   <script src="jquery.buttonloadingindicator.js"></script>
+   <script src="dist/jquery.buttonloadingindicator.js"></script>
    ```
 
 1. Use it
