@@ -1,6 +1,8 @@
 {
-  "name": "jQuery.ButtonLoadingIndicator",
+  "name": "jquery.buttonloadingindicator",
   "version": "1.0.0",
+  "keywords": ["jQuery", "Button", "FontAwesome", "Loading", "Indicator"],
+  "homepage": "https://github.com/Fluxter/jQuery.ButtonLoadingIndicator",
   "description": "A small jQuery Plugin to indicate a loading state of a button",
   "main": "dist/jquery.buttonloadingindicator.js",
   "repository": "git@github.com:Fluxter/jQuery.ButtonLoadingIndicator.git",
