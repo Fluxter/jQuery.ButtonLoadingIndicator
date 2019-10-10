@@ -1,4 +1,6 @@
-# jQuery Buttonloader
+# jQuery ButtonloadingIndicator
+
+A simple script that changes the button icon to the fontawesome Spinner and reverts it when done
 
 ## How to install
 
